@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://segoa.github.io/sitemap.txt
